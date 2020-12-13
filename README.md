@@ -8,6 +8,6 @@ This project contains the collection of papers related to Symbolic Execution
 
 - [Scalable Testing of File System Checkers](https://people.eecs.berkeley.edu/\~joao/swift_eurosys12.pdf) (EuroSys'12, SWIFT)
 
-- [S2E: A Platform for In-Vivo Multi-Path Analysis of Software Systems](https://cseweb.ucsd.edu/\~dstefan/cse291-fall16/papers/s2e-annotated.pdf) (ASPLOS'11)
+- [S2E: A Platform for In-Vivo Multi-Path Analysis of Software Systems](https://cseweb.ucsd.edu/\~dstefan/cse291-fall16/papers/s2e-annotated.pdf) (ASPLOS'11) [Open Source](https://github.com/S2E/s2e)
 
-- [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://www.doc.ic.ac.uk/~cristic/papers/klee-osdi-08.pdf) (OSDI'08)
+- [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://www.doc.ic.ac.uk/~cristic/papers/klee-osdi-08.pdf) (OSDI'08) [Open Source](https://klee.github.io/build-llvm9/)
