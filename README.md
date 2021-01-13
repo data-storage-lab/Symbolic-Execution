@@ -8,7 +8,7 @@ This project contains the collection of papers related to Symbolic Execution
 
 - [Scalable Testing of File System Checkers](https://people.eecs.berkeley.edu/\~joao/swift_eurosys12.pdf) (EuroSys'12, SWIFT)
 
-- [SymDrive: Testing Drivers without Devices](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-4.pdf)
+- [SymDrive: Testing Drivers without Devices](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-4.pdf) (OSDI'12, SymDrive)
 
 - [S2E: A Platform for In-Vivo Multi-Path Analysis of Software Systems](https://cseweb.ucsd.edu/\~dstefan/cse291-fall16/papers/s2e-annotated.pdf) (ASPLOS'11) [Open Source](https://github.com/S2E/s2e)
 
