@@ -4,6 +4,8 @@ This project contains the collection of papers related to Symbolic Execution
 
 - [AGAMOTTO: How Persistent is your Persistent Memory Application?](https://web.eecs.umich.edu/~barisk/public/agamotto.pdf) (OSDI'20)
 
+- [Chopped Symbolic Execution](https://srg.doc.ic.ac.uk/files/papers/chopper-icse-18.pdf) （ICSE‘18）
+
 - [Verifying Systems Rules Using Rule-Directed Symbolic Execution](http://www.cs.columbia.edu/\~junfeng/papers/woodpecker-asplos13.pdf) (ASPLOS'13, WOODPECKER)
 
 - [Scalable Testing of File System Checkers](https://people.eecs.berkeley.edu/\~joao/swift_eurosys12.pdf) (EuroSys'12, SWIFT)
