@@ -17,3 +17,9 @@ This project contains the collection of papers related to Symbolic Execution
 - [All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask)](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) (S&P'10)
 
 - [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://www.doc.ic.ac.uk/~cristic/papers/klee-osdi-08.pdf) (OSDI'08) [Open Source](https://klee.github.io/build-llvm9/)
+
+# Other Repos
+
+This contains a list of symbolic execution resources (research papers, lectures, videos, tools)
+
+- [Awesome-Symbolic-Execution](https://github.com/ksluckow/awesome-symbolic-execution)
