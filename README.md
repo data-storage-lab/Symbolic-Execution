@@ -20,6 +20,6 @@ This project contains the collection of papers related to Symbolic Execution
 
 # Other Repos
 
-This contains a list of symbolic execution resources (research papers, lectures, videos, tools)
+This contains a list of symbolic execution resources (research papers, lectures, videos, tools) curated by Kasper Luckow
 
 - [Awesome-Symbolic-Execution](https://github.com/ksluckow/awesome-symbolic-execution)
